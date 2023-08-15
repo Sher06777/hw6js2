@@ -24,7 +24,7 @@ const login = async (email, password) => {
         localStorage.setItem('name', name + '');
         localStorage.setItem('token', token + '');
         console.log(email, name, token);
-        // window.location.href = './person.html';
+        window.location.href = './person.html';
     } else {
         console.log('Error during login:', data.error);
     }
