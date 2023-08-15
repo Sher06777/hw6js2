@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "email": "asherbolot1@gmail.com",
+      "password": "$2a$10$InCfC3neW1zCH05KaKNZC.F7DFcQyJT4cQE94iDQhWTBNTyeBNRIu",
+      "name": "Шерболот",
+      "id": 1
+    },
+    {
+      "email": "aserbolot4@gmail.com",
+      "password": "$2a$10$WqVC0AaCDC7gvMEq1anLrOUgMXGntoksJG416tHZU4l4T9zjLyQse",
+      "name": "Шерболот",
+      "id": 2
+    },
+    {
+      "email": "tynchtlk@gslkfd.uhr",
+      "password": "$2a$10$icmVULTndrs7pcikaunVm.n4ij6NAYgg3qTkOSkEvikNbR7wrV/a6",
+      "name": "Tynchtyk_123",
+      "id": 3
+    },
+    {
+      "email": "aserbolot44@gmail.com",
+      "password": "$2a$10$JacOoPYYAge4Sg6x287bSOxbjBWxy5eyct9/cSYiVUApbB/W4n1vi",
+      "name": "ыаыа",
+      "id": 4
+    },
+    {
+      "email": "asherbolot1@gmail.comm",
+      "password": "$2a$10$NjUuDWq5jrKXZ7RVG.ckveuYUal6uwGaBATtBLa1rvTAVcVkSyGJ2",
+      "name": "Шерболот",
+      "id": 5
+    },
+    {
+      "email": "al@g.com",
+      "password": "$2a$10$viFz5rbPi3LFVMIffT7s1eaHBnU2kTCXlyywA3QGbG9keFjuPaX7i",
+      "name": "Alice",
+      "id": 6
+    },
+    {
+      "email": "aserbolot41@gmail.com",
+      "password": "$2a$10$1.8RmYXdjErXTjmfOxbVpOO1/A3g1Ri2sffWoRQJecAuwiPj2gjDO",
+      "name": "Шерболот",
+      "id": 7
+    },
+    {
+      "email": "asherbolot@gmail.com",
+      "password": "$2a$10$x2ElLSpOOI9mvZUYa5Z4m.iqGz04gKfrg8Y3waCy.p/bAbTVcEygK",
+      "name": "Шерболот",
+      "id": 8
+    },
+    {
+      "email": "aserbolot4@gmail.commm",
+      "password": "$2a$10$UL4UhubNNc0i1s6VFa89/eN5j9Dz1jRQUr1nvT3qdqzTPgFp9RqKq",
+      "name": "Alice",
+      "id": 9
+    },
+    {
+      "email": "sher06@hh.hh",
+      "password": "$2a$10$WeJ0JNhqTih3f8SJETxrt.mZv64ZYDsYH/v6K46lrbYT6BIXMFK/O",
+      "name": "Alice",
+      "id": 10
+    },
+    {
+      "email": "aserbolot43@gmail.com",
+      "password": "$2a$10$Uh7.c9Z57RP0eaYuGs3g8eQFADgeBZJOnvsu9LBDslQhxMi02YAgi",
+      "name": "sher",
+      "id": 11
+    }
+  ]
+}
